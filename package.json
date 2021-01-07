@@ -82,7 +82,7 @@
     "yargs": "16.0.3"
   },
   "devDependencies": {
-    "@types/jest": "26.0.14",
+    "@types/jest": "26.0.20",
     "@types/svg2ttf": "5.0.0",
     "tsbb": "1.7.6"
   }
